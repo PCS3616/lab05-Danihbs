@@ -14,8 +14,8 @@
 
         AD  /0100
         MM  /0104; RESULTADO PARCIAL
-        ML  /1000
-        DV  /1000
+        ML  /0202
+        DV  /0202
         SB  /000A
         JN  /0300   
         LD  /0104
@@ -35,5 +35,3 @@
         AD  /0200
         PD  /100
         HM  /0306
-
-        
